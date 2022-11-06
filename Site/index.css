@@ -22,7 +22,7 @@ body {
 }
 
 .bar {
-    background-color: #272727;
+    background-color: #9cd6c1;
     height: 50px;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 .page {
-    background-color: #272727;
+    background-color: #9cd6c1;
     height: 200px;
     width: 600px;
     top: 0;
@@ -62,7 +62,7 @@ body {
 }
 
 .text {
-    color: #FFF;
+    color: #080807;
     font-size: 25px;
     margin-top: 1%;
 }
