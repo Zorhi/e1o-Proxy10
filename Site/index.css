@@ -22,7 +22,7 @@ body {
 }
 
 .bar {
-    background-color: #9cd6c1;
+    background-color: #272727;
     height: 50px;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 .page {
-    background-color: #9cd6c1;
+    background-color: #272727;
     height: 200px;
     width: 600px;
     top: 0;
@@ -62,7 +62,7 @@ body {
 }
 
 .text {
-    color: #080807;
+    color: #FFF;
     font-size: 25px;
     margin-top: 1%;
 }
@@ -146,7 +146,7 @@ body {
 }
 
 .ytlink:hover {
-    color: grey;
+    color: blue;
 }
 
 .tabconfig {
@@ -155,7 +155,7 @@ body {
 }
 
 .tabconfig:hover {
-    color: grey;
+    color: blue;
 }
 
 .updates_btn {
@@ -164,11 +164,11 @@ body {
 }
 
 .updates_btn:hover {
-    color: grey;
+    color: blue;
 }
 
 a:hover {
-    color: grey;
+    color: blue;
 }
 
 a {
